@@ -1,0 +1,14 @@
+.card-footer {
+    background-color: transparent;
+    border: none;
+}
+
+ .card-footer {
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+ }
+
+.card {
+    /* width: 309px; */
+    height: 450px;
+    background-image: url(/assets/lionking.png);
+}
